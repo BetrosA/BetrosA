@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Betros
+- 👋 Hi, I’m @Betros
 - 👀 I’m interested in anything related in codding
 - 🌱 I’m currently learning application development
 - 💞️ I’m looking to collaborate on ...

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Betros
-- 🌱 I’m currently learning application development staff
+- 🌱 I’m currently learning application development
 - 📫 How to reach me bbabraha@ucsc.edu
 
 <!---
